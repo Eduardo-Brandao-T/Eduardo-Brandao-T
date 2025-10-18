@@ -58,7 +58,7 @@ Uma rede para leitores onde você pode:
 - Acompanhar estatísticas de leitura
 - Compartilhar suas leituras com a comunidade
 
-🧱 *Stack:* `React`, `Node.js`, `MongoDB`, `Express`
+🧱 *Stack:* `React`, `Node.js`, `Postgres`, `NestJs`
 
 ---
 
